@@ -1,0 +1,6 @@
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+rapidfuzz>=3.9
+lightgbm>=4.5
+jupyter
